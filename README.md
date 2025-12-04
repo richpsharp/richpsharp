@@ -1,1 +1,1 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=richpsharp&show_icons=true)
+[![Rich's GitHub stats](https://github-readme-stats.vercel.app/api?username=richpsharp)](https://github.com/anuraghazra/github-readme-stats)
